@@ -8,14 +8,14 @@ body {
 .grid-container {
     margin: auto;
     padding: 0px;
-    background-color: white;
+    background-color: #131722;
     display: flex;
     flex-wrap: wrap;
 }
 
 .grid-container div {
-    height: 280px;
-    width: 460px;
+    height: 480px;
+    width: 660px;
     display: flex;
     align-items: center;
     justify-content: center;
