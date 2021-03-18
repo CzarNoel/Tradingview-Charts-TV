@@ -14,8 +14,8 @@ body {
 }
 
 .grid-container div {
-    height: 480px;
-    width: 660px;
+    height: 400px;
+    width: calc(50%);
     display: flex;
     align-items: center;
     justify-content: center;
