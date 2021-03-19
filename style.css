@@ -1,50 +1,73 @@
-            body {
-                background-color: #131722;
-                height: auto;
-                width: auto;
-                box-sizing: border-box;
-            }
-            
-            .grid-container {
-                margin: auto;
-                padding: 0px;
-                background-color: #131722;
-                display: flex;
-                flex-wrap: wrap;
-            }
-            
-            .grid-container div {
-                height: 400px;
-                width: calc(50%);
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-            
-            .site-header {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                background-image: url("https://i.postimg.cc/BnhwznNC/abstract-background-website-landing-pagefooter.png");
-                height: 100px;
-                background-repeat: no-repeat;
-                background-position: center;
-                background-size: cover;
-            }
-            
-            .BTC a {
-                font-family: "Roboto";
-                font-color: #fff7fc;
-                font-size: larger;
-                text-decoration: none;
-            }
-            
-            .img {
-                display: block;
-                float: left;
-                height: 90px;
-                overflow: hidden;
-                padding: 0;
-                text-indent: -9999px;
-                width: auto;
-            }
+                                                                                                                    body {
+                                                                                                                        background-color: #131722;
+                                                                                                                        height: auto;
+                                                                                                                        width: auto;
+                                                                                                                        box-sizing: border-box;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    .grid-container {
+                                                                                                                        margin: auto;
+                                                                                                                        padding: 0px;
+                                                                                                                        background-color: #131722;
+                                                                                                                        display: flex;
+                                                                                                                        flex-wrap: wrap;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    .grid-container div {
+                                                                                                                        height: 400px;
+                                                                                                                        width: calc(50%);
+                                                                                                                        display: flex;
+                                                                                                                        align-items: center;
+                                                                                                                        justify-content: center;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    .site-header {
+                                                                                                                        display: flex;
+                                                                                                                        justify-content: space-between;
+                                                                                                                        align-items: center;
+                                                                                                                        height: 100px;
+                                                                                                                        background-repeat: no-repeat;
+                                                                                                                        background-position: center;
+                                                                                                                        background-size: cover;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    a {
+                                                                                                                        font-family: "Roboto";
+                                                                                                                        font-color: #fff7fc;
+                                                                                                                        font-size: larger;
+                                                                                                                        text-decoration: none;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    a:link {
+                                                                                                                        color: #181c27;
+                                                                                                                        background-color: transparent;
+                                                                                                                        text-decoration: none;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    a:visited {
+                                                                                                                        color: #181c27;
+                                                                                                                        background-color: transparent;
+                                                                                                                        text-decoration: none;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    a:hover {
+                                                                                                                        color: #181c27;
+                                                                                                                        background-color: transparent;
+                                                                                                                        text-decoration: none;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    a:active {
+                                                                                                                        color: #181c27;
+                                                                                                                        background-color: transparent;
+                                                                                                                        text-decoration: none;
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                    .img {
+                                                                                                                        display: block;
+                                                                                                                        float: left;
+                                                                                                                        height: 90px;
+                                                                                                                        overflow: hidden;
+                                                                                                                        padding: 0;
+                                                                                                                        width: auto;
+                                                                                                                        text-indent: -9999px;
+                                                                                                                    }

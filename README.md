@@ -1,4 +1,6 @@
-# webtrading
+# CHARTS GRATIS
 
-## Um webapp para visualização gratuíta de charts. 
+## Web Trading TV
+
+
 
