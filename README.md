@@ -4,9 +4,9 @@
 * Responsive HUB for traders with a 2x3 Tradingview charts grid and market list.
 
 ##### ver 1.2
-- Tiker Tape / Barra de Cotação
-- Charts 2x3
-- Crypto Market / Tabela Mercado Cripto
-- Forex Market / Tabela Mercado Forex
+1. Tiker Tape / Barra de Cotação
+2. Charts 2x3
+3. Crypto Market / Tabela Mercado Cripto
+4. Forex Market / Tabela Mercado Forex
 
 ## Acessar [AQUI](https://czarnoel.github.io/chartsgratis/)
