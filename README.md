@@ -7,12 +7,13 @@
 ----------|--------|
 |  chart3 | chart4 | 
 |  chart5 | chart6 | 
+|  chart7 | chart8 | 
 
 ---
 
-##### ver 1.2
+##### ver 1.3
 1. Tiker Tape / Barra de Cotação
-2. Charts 2x3
+2. Charts 2x4
 3. Crypto Market / Tabela Mercado Cripto
 4. Forex Market / Tabela Mercado Forex
 
