@@ -17,7 +17,7 @@
 3. Crypto Market / Tabela Mercado Cripto
 4. Forex Market / Tabela Mercado Forex
 
-## Acessar [AQUI](https://czarnoel.github.io/chartsgratis/)
+## Acessar [AQUI](https://ionnss.github.io/chartsgratis/)
 
 
 
